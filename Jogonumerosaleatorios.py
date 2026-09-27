@@ -58,3 +58,5 @@ elif dif == 3:
        print("Você errou. Tente um número menor.")
 else:
    print("Dificuldade inválida")
+
+#Nomes: Ares e Rayssa#
