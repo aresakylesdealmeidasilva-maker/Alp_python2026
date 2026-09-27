@@ -45,3 +45,4 @@ while True:
   elif opcao == 6:
     print("Programa encerrado")
     break
+#Nomes: Ares e Rayssa#
