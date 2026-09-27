@@ -1,5 +1,5 @@
 from IPython.display  import clear_output
-#Para funcionar no colab utilizamos essa linha# de código#
+#Para funcionar no colab utilizamos essa linha de código#
 
 quant = 0
 while True:
