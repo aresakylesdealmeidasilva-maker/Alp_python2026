@@ -13,8 +13,7 @@ while True:
      print("\33c", end=" ")
 
   else:
-     print("Você errou.")
-     input("ENTER para tentar novamente...")
+     input("Você errou. ENTER para tentar novamente...")
      continue
      
 
