@@ -1,5 +1,4 @@
 tentativa = 0
-
 while tentativa < 3:
   tentativa += 1
   usuario = input("Digite a usuário: ")
